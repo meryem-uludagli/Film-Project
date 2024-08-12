@@ -16,6 +16,3 @@ This project is a simple movie streaming web page built using HTML, CSS and Java
 # 💎Preview:
 ![](FilmSitesi.gif)
 
-# Film_Project
-# Film_Project
-# Film-Project
